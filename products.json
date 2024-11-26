@@ -1,0 +1,172 @@
+[
+  {
+    "productId": "201",
+    "productTitle": "Laptop",
+    "productImage": "https://i.ibb.co.com/Htws41b/1701658482794.jpg",
+    "category": "Laptop",
+    "price": 129.99,
+    "description": "High-quality over-ear headphones with advanced noise-cancellation.",
+    "specification": [
+      "Over-ear design",
+      "Active noise cancellation",
+      "Bluetooth 5.0",
+      "30-hour battery life",
+      "Built-in microphone"
+    ],
+    "availability": "In Stock",
+    "rating": 4.6
+  },
+  {
+    "productId": "202",
+    "productTitle": "Phone",
+    "productImage": "https://i.ibb.co.com/s2GKGhn/pexels-luckysam-47261.jpg",
+    "category": "Phone",
+    "price": 89.99,
+    "description": "Compact and powerful Bluetooth speaker with deep bass.",
+    "specification": [
+      "10W output",
+      "Water-resistant",
+      "12-hour playtime",
+      "Bluetooth 5.0",
+      "Built-in mic"
+    ],
+    "availability": "In Stock",
+    "rating": 4.8
+  },
+  {
+    "productId": "203",
+    "productTitle": "Laptop",
+    "productImage": "https://i.ibb.co.com/z4v1Pp1/alex-knight-j4uu-Kn-N43-M-unsplash.jpg",
+    "category": "Laptop",
+    "price": 499.99,
+    "description": "Ultra HD Smart TV with HDR support and streaming capabilities.",
+    "specification": [
+      "4K Ultra HD",
+      "HDR support",
+      "60Hz refresh rate",
+      "Smart TV features",
+      "3 HDMI ports"
+    ],
+    "availability": "In Stock",
+    "rating": 4.7
+  },
+  {
+    "productId": "204",
+    "productTitle": "Phone",
+    "productImage": "https://i.ibb.co.com/L9MRHKs/pexels-silvie-63690.jpg",
+    "category": "Phone",
+    "price": 55.0,
+    "description": "Durable stainless steel vacuum thermos for keeping beverages hot or cold.",
+    "specification": [
+      "Double-walled insulation",
+      "Leak-proof",
+      "1-liter capacity",
+      "BPA-free",
+      "Keeps hot for 12 hours, cold for 24 hours"
+    ],
+    "availability": "In Stock",
+    "rating": 4.5
+  },
+  {
+    "productId": "205",
+    "productTitle": "Laptop",
+    "productImage": "https://i.ibb.co.com/1mxB470/istockphoto-1174106827-612x612.jpg",
+    "category": "Laptop",
+    "price": 65.0,
+    "description": "Non-stick frying pan made with ceramic coating for easy cleaning.",
+    "specification": [
+      "Non-stick ceramic coating",
+      "Dishwasher safe",
+      "Ergonomic handle",
+      "10-inch diameter",
+      "PFOA-free"
+    ],
+    "availability": "Stock Out",
+    "rating": 4.6
+  },
+  {
+    "productId": "206",
+    "productTitle": "Smart Watch",
+    "productImage": "https://i.ibb.co.com/rkjxz7Z/pexels-jatin-anand-33853-125779.jpg",
+    "category": "Smart Watch",
+    "price": 159.99,
+    "description": "Programmable smart thermostat compatible with Alexa and Google Home.",
+    "specification": [
+      "App control",
+      "Energy-saving features",
+      "Compatible with Alexa and Google Home",
+      "Touchscreen display",
+      "Easy installation"
+    ],
+    "availability": "In Stock",
+    "rating": 4.7
+  },
+  {
+    "productId": "207",
+    "productTitle": "Laptop",
+    "category": "Laptop",
+    "productImage": "https://i.ibb.co.com/Htws41b/1701658482794.jpg",
+    "price": 69.99,
+    "description": "Smart LED light bulbs with adjustable colors and brightness, controlled via app.",
+    "specification": [
+      "16 million colors",
+      "App and voice control",
+      "Energy efficient",
+      "60W equivalent",
+      "WiFi enabled"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "productId": "208",
+    "productTitle": "Smart Watch",
+    "productImage": "https://i.ibb.co.com/F7pbyVQ/pexels-ferarcosn-190819.jpg",
+    "category": "Smart Watch",
+    "price": 79.99,
+    "description": "Mechanical gaming keyboard with customizable RGB lighting.",
+    "specification": [
+      "Mechanical keys",
+      "RGB lighting",
+      "Anti-ghosting",
+      "Durable build",
+      "USB connection"
+    ],
+    "availability": "In Stock",
+    "rating": 4.6
+  },
+  {
+    "productId": "209",
+    "productTitle": "Laptop",
+    "productImage": "https://i.ibb.co.com/BnwWN78/kari-shea-1-SAnr-Ixw5-OY-unsplash.jpg",
+    "category": "Laptop",
+    "price": 199.99,
+    "description": "Comfortable ergonomic office chair with adjustable height and lumbar support.",
+    "specification": [
+      "Adjustable height",
+      "Lumbar support",
+      "Breathable mesh back",
+      "360-degree swivel",
+      "5-point base"
+    ],
+    "availability": "Stock Out",
+    "rating": 4.5
+  },
+  {
+    "productId": "210",
+    "productTitle": "Laptop",
+    "productImage": "https://i.ibb.co.com/r7jcj4Q/maxim-hopman-Hin-rzh-Od-Ws-unsplash.jpg",
+    "category": "Laptop",
+    "price": 59.99,
+    "description": "Adjustable laptop stand with built-in cooling fan.",
+    "specification": [
+      "Aluminum build",
+      "Adjustable angles",
+      "Cooling fan",
+      "Portable design",
+      "Non-slip pads"
+    ],
+    "availability": "In Stock",
+    "rating": 4.4
+  }
+]
